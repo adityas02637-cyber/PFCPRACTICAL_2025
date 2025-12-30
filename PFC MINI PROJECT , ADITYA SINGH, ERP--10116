@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-//Aditya Singh  ERP-10116
+//Aditya Singh    ERP-10116
     int num, original, reverse = 0, digit;
     printf("Enter a number: ");
     scanf("%d", &num);
@@ -29,4 +29,5 @@ int main() {
 
         //Enter an integer: 123
         //123 is Not a Palindrome.
+
 
